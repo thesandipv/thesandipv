@@ -1,7 +1,11 @@
 ### Hi, I'm Sandip 👋
 
 #### Reach Me
-[Twitter](https://twitter.com/thesandipv) | [Medium](https://medium.com/thesandipv)
+[Twitter](https://twitter.com/thesandipv) | [Medium](https://medium.com/@thesandipv)
+
+### AfterROOT
+[@afterroot](https://github.com/afterroot)
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesandipv&show_icons=true&locale=en" alt="thesandipv" />
 
